@@ -121,8 +121,6 @@ As soon as the application is up and running in your browser of choice you can b
 
 ## Verify notebook
 
-The purpose of the verify notebook is demonstrate one way of how to evaluate our RAG project, at the momment it takes ONE document but it should take the all of the data we used in the knowledge base to generate X amount of questions and later send those questions into our RAG solution then it compares both of them retrieving the following metrics:
-
 The purpose of the verify notebook is to demonstrate one way to evaluate our RAG project. Currently, it processes a single document, but it should eventually handle all the data used in the knowledge base. The notebook generates a set of questions, sends them to our RAG solution, and then compares the responses. As example it retrieves the following metrics:
 
 ![Alt text](images/evaluation.PNG "giskard-evaluation")
