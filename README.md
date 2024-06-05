@@ -35,7 +35,7 @@ When a user interacts with the app, the flow is as follows:
 The first step of utilizing this repo is performing a git clone of the repository.
 
 ```
-git clone  "Add link of repo"
+git clone https://github.com/Edgarciah/AWS-RAG.git
 ```
 
 After cloning the repo onto your local machine, open it up in your favorite code editor.The file structure of this repo is broken into 4 key files,
